@@ -1,0 +1,5 @@
+First, clone the huggingface/lerobot repo and activate Conda.
+
+See https://github.com/huggingface/lerobot/blob/main/README.md
+
+Then, visit this repo to run our code that uses lerobot.
